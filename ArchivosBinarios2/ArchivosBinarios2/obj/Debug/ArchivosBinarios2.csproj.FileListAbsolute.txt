@@ -1,0 +1,7 @@
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\bin\Debug\ArchivosBinarios2.exe.config
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\bin\Debug\ArchivosBinarios2.exe
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\bin\Debug\ArchivosBinarios2.pdb
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\obj\Debug\ArchivosBinarios2.csproj.AssemblyReference.cache
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\obj\Debug\ArchivosBinarios2.csproj.CoreCompileInputs.cache
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\obj\Debug\ArchivosBinarios2.exe
+C:\Users\bpere\Desktop\POO unidad 5\ArchivosBinarios2\ArchivosBinarios2\obj\Debug\ArchivosBinarios2.pdb
